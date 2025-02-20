@@ -27,33 +27,6 @@
     <footer class="social-footer">
       <div class="social-footer__content">
         <p class="social-footer__text">Follow me on:</p>
-        <ul class="social-footer__icons">
-          <li>
-            <a href="https://www.facebook.com" target="_blank" title="Facebook">
-              <i class="fab fa-facebook-f"></i>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.instagram.com" target="_blank" title="Instagram">
-              <i class="fab fa-instagram"></i>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.twitter.com" target="_blank" title="Twitter">
-              <i class="fab fa-twitter"></i>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.tiktok.com" target="_blank" title="TikTok">
-              <i class="fab fa-tiktok"></i>
-            </a>
-          </li>
-          <li>
-            <a href="https://www.youtube.com" target="_blank" title="YouTube">
-              <i class="fab fa-youtube"></i>
-            </a>
-          </li>
-        </ul>
       </div>
       <p class="footer__text text">
         &copy; 2025 - Developed by Albert Johnson. This project is available at 
